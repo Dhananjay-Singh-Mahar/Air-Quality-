@@ -60,7 +60,7 @@ def generate_pdf_report(start_date, end_date,layer_name,avg_value,image_count):
 
     return pdf
 
-from src.air_quality_layers import (
+from air_quality_layers import (
     get_aod_layer,
     get_no2_layer,
     get_aod_stats,
