@@ -164,7 +164,7 @@ L3 NO₂
 
 ## 👨‍💻 Author
 
-Aryan
+Dhananjay Singh Mahar
 
 AI Engineering Student
 
